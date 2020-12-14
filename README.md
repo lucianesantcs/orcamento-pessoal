@@ -13,6 +13,7 @@ Aplicativo que cadastra despesas desenvolvido no curso de Desenvolvimento Web
 - HTML5
 - CSS3
 - Javascript (com Orientação a Objetos)
+- Dados gravados no localStorage
 
 ### Author
 
